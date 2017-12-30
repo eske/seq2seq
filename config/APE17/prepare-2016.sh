@@ -7,7 +7,7 @@
 # synthetic PE data by using back-translation
 
 raw_data=raw_data/APE17
-data_dir=data/APE16
+data_dir=data/APE17
 
 max_vocab_size=30000
 max_char_vocab_size=200
